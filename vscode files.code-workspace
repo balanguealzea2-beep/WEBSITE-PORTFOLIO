@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../vscode files"
+		},
+		{
+			"path": "../Downloads/luks2211 Voting_System-Ustp main public"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vscode files"
+	}
+}
